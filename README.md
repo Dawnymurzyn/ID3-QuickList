@@ -14,4 +14,8 @@ Filenames must start with a two-digit number (e.g., `01 TrackName.mp3`).
 This application only edits track numbering in ID3 metadata.  
 All other metadata (title, artist, album, cover art) is preserved.
 
+Originally made for Windows 10, "should" work for Win 7, Win 8, and Linux distributions using Wine. 
+Any user provided information in regard of compability on other systems is welcome.
+
+
 Made by Dawnymurzyn | Herb Geek Familia
